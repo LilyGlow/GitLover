@@ -25,6 +25,9 @@ public class DoArray {
             arr[8] = 66;
             arr[9] = 33;
             nElems = 10;                 // now 10 items in array
+            // Массивы можно инициализировать проще, например, так:
+            arr = new long[] {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+
 //--------------------------------------------------------------
             for(j=0; j<nElems; j++)      // display items
                 System.out.print(arr[j] + " ");
@@ -43,6 +46,7 @@ public class DoArray {
             for(j=0; j<nElems; j++)           // look for it
                 if(arr[j] == searchKey)
                     break;
+            // тут печалька-ошибка :( удалили последний элемент, даже если не нашли элемент 55 :(
             for(int k=j; k<nElems; k++)       // move higher ones down
                 arr[k] = arr[k+1];
             nElems--;                         // decrement size
