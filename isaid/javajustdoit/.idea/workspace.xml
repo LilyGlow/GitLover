@@ -21,17 +21,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Javanica.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Javanica.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/Javanica.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="85">
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
               <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#2130#2131#0" expanded="true" />
+                <element signature="e#2162#2163#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calc_kkal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/calc/Calc_kkal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding>
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product_general.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/calc/Product_general.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -39,7 +61,7 @@
       <file leaf-file-name="DoArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/doarray/DoArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="187">
               <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
@@ -61,7 +83,10 @@
         <option value="$PROJECT_DIR$/src/DoArray.java" />
         <option value="$PROJECT_DIR$/src/Javanika.java" />
         <option value="$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/Javanika.java" />
+        <option value="$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/Calc_kkal.java" />
+        <option value="$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/calc/Product_general.java" />
         <option value="$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/Javanica.java" />
+        <option value="$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/calc/Calc_kkal.java" />
       </list>
     </option>
   </component>
@@ -123,6 +148,25 @@
               <item name="javajustdoit" type="462c0819:PsiDirectoryNode" />
               <item name="doarray" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javajustdoit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javajustdoit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javacake" type="462c0819:PsiDirectoryNode" />
+              <item name="isaid" type="462c0819:PsiDirectoryNode" />
+              <item name="javajustdoit" type="462c0819:PsiDirectoryNode" />
+              <item name="javanica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javajustdoit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javajustdoit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javacake" type="462c0819:PsiDirectoryNode" />
+              <item name="isaid" type="462c0819:PsiDirectoryNode" />
+              <item name="javajustdoit" type="462c0819:PsiDirectoryNode" />
+              <item name="javanica" type="462c0819:PsiDirectoryNode" />
+              <item name="calc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,6 +192,16 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Javanika">
+    <configuration name="Calc_kkal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacake.isaid.javajustdoit.javanica.Calc_kkal" />
+      <module name="javajustdoit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacake.isaid.javajustdoit.javanica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="DoArray" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="javacake.isaid.javajustdoit.doarray.DoArray" />
       <module name="javajustdoit" />
@@ -184,9 +238,11 @@
       <item itemvalue="Application.DoArray" />
       <item itemvalue="Application.Javanika" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Calc_kkal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calc_kkal" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -210,13 +266,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32920355" />
+      <window_info anchor="bottom" id="Messages" order="3" sideWeight="0.49960968" visible="true" weight="0.32920355" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="1" sideWeight="0.5003903" side_tool="true" visible="true" weight="0.32920355" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.34513274" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2902655" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
@@ -241,17 +297,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/doarray/DoArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -259,15 +308,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/doarray/DoArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/calc/Product_general.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/Javanica.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="85">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
           <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#2130#2131#0" expanded="true" />
+            <element signature="e#2162#2163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javacake/isaid/javajustdoit/javanica/calc/Calc_kkal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
           </folding>
         </state>
       </provider>
