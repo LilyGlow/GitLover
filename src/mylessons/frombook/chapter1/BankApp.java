@@ -1,4 +1,4 @@
-package mylessons.frombook;
+package mylessons.frombook.chapter1;
 
 public class BankApp
 {
