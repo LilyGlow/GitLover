@@ -23,9 +23,9 @@ class ClassDataArray
             return a[j];                    // no, found it
     }  // end find()
     //--------------------------------------------------------------                                    // put person into array
-    public void insert(String last, String first, int age)
+    public void insert(String last, String first, int birth_year)
     {
-        a[nElems] = new Person(last, first, age);
+        a[nElems] = new Person(last, first, birth_year);
         nElems++;                          // increment size
     }
     //--------------------------------------------------------------

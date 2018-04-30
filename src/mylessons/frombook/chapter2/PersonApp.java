@@ -6,16 +6,16 @@ public class PersonApp {
         int maxSize = 100;             // array size
         ClassDataArray arr = new ClassDataArray(maxSize);  // create the array
         // insert 10 items
-        arr.insert("Evans", "Patty", 24);
-        arr.insert("Smith", "Lorraine", 37);
-        arr.insert("Yee", "Tom", 43);
-        arr.insert("Adams", "Henry", 63);
-        arr.insert("Hashimoto", "Sato", 21);
-        arr.insert("Stimson", "Henry", 29);
-        arr.insert("Velasquez", "Jose", 72);
-        arr.insert("Lamarque", "Henry", 54);
-        arr.insert("Vang", "Minh", 22);
-        arr.insert("Creswell", "Lucinda", 18);
+        arr.insert("Evans", "Patty", 1989);
+        arr.insert("Smith", "Lorraine", 1980);
+        arr.insert("Yee", "Tom", 1977);
+        arr.insert("Adams", "Henry", 1966);
+        arr.insert("Hashimoto", "Sato", 1934);
+        arr.insert("Stimson", "Henry", 1990);
+        arr.insert("Velasquez", "Jose", 1997);
+        arr.insert("Lamarque", "Henry", 1928);
+        arr.insert("Vang", "Minh", 1974);
+        arr.insert("Creswell", "Lucinda", 1985);
 
         arr.displayA();                // display items
 
